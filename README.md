@@ -1,2 +1,2 @@
 # Automl
-Codes on automated machine learning.
+Automl is an automated machine learning toolkit.
